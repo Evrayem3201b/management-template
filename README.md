@@ -1,3 +1,4 @@
+(Outdated md)
 # Field Service Management (FSM) B2B SaaS Platform
 
 A modern, high-performance, secure multi-tenant B2B SaaS platform built specifically for field service businesses—such as plumbing, HVAC, and electrical contracting companies—to manage their teams, customers, jobs, and financial workflows.
@@ -23,7 +24,6 @@ The platform uses a strict multi-tenant architecture powered by a dual-layer rol
      - **Owner**: Full administrative control over the organization workspace and billing.
      - **Manager**: Dispatching, job creation, and team coordination.
      - **Technician**: Field execution, job updates, and cost logging.
-     - **Customer**: Portal access for clients to track job progress and history.
 
 ---
 
