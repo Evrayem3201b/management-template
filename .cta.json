@@ -1,0 +1,29 @@
+{
+  "bundler": "vite",
+  "projectName": "first-tanstack",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "pnpm",
+  "includeExamples": true,
+  "tailwind": true,
+  "projectPreset": "default",
+  "routerOnly": false,
+  "addOnOptions": {
+    "drizzle": {
+      "database": "postgresql"
+    }
+  },
+  "git": false,
+  "install": true,
+  "intent": true,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "nitro",
+    "drizzle",
+    "form",
+    "shadcn",
+    "better-auth",
+    "neon"
+  ]
+}
