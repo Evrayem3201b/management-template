@@ -23,7 +23,6 @@ The platform uses a strict multi-tenant architecture powered by a dual-layer rol
      - **Owner**: Full administrative control over the organization workspace and billing.
      - **Manager**: Dispatching, job creation, and team coordination.
      - **Technician**: Field execution, job updates, and cost logging.
-     - **Customer**: Portal access for clients to track job progress and history.
 
 ---
 
